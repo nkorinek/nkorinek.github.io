@@ -4,6 +4,7 @@
 
 ## Earth Data Scientist
 
-![Profile Picture](/nkorinek.github.io/assets/profile.jpeg)
+<img src="./docs/assets/profile.jpeg" style="display: block; margin: auto;" />
+
 </div>
 
