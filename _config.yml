@@ -1,3 +1,7 @@
 # Configuration file for website
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-theme-midnight
 
 theme: midnight
