@@ -3,6 +3,6 @@
 
 ## Earth Data Scientist
 
-![Profile Picture](/nkorinek.github.io/assets/profile.png)
+![Profile Picture](/nkorinek.github.io/assets/profile.jpeg)
 </p>
 
