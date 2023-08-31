@@ -1,7 +1,9 @@
 # Configuration file for website
-title: Nathan Korinek Personal Website
-description: Home page for Nathan Korinek
-logo: docs/assets/profile.png
+#title: Nathan Korinek Personal Website
+
+#description: Home page for Nathan Korinek
+
+#logo: docs/assets/profile.png
 
 plugins:
   - jekyll-feed
